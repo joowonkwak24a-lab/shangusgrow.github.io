@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#resources {
+    margin-top: 20px;
+}
+
+/* 버튼들을 세로로 정렬 */
+button {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    display: block; /* 버튼을 세로로 쌓기 위해 display를 block으로 설정 */
+    margin-left: auto; /* 가운데 정렬 */
+    margin-right: auto; /* 가운데 정렬 */
+}
